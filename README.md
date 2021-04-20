@@ -1,6 +1,7 @@
 # DataStructures_Py
 ## Tree Data Structure
   + [Youtube Link](https://www.youtube.com/watch?v=-xJvpnenx6Y&list=PLPdtS77PaSutvrLxZJT5gmASGSed0dO_T)
+    * 12.17 list to tree 
   + Topics Covered:
     * Create, insert, delete, display, search node, height of tree.
   + Binary Search Tree:
