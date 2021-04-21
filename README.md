@@ -9,4 +9,6 @@
     * Value of left side child should have less value compared to root
     * Value of right side child should have greater value or equal to root
     * Node data structure has 3 things, left part, data, right part
-
+  + Creating Node:
+    * Attached 
+  + 
