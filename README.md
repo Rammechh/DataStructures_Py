@@ -31,5 +31,7 @@
     * A perfect binary tree is a type of binary tree in which every internal node has exactly two child nodes and all the leaf nodes are at the same level.
   + Complete Binary Tree: If you represent the tree in an array there will not be any gaps in between 
     * A complete binary tree is just like a full binary tree, but with two major differences 1) Every level must be completely filled 2)All the leaf elements must lean towards the left. 3)The last leaf element might not have a right sibling i.e. a complete binary tree doesn't have to be a full binary tree.
+    ---
+  #### Heap
 
   
