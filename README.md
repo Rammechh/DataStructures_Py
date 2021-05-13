@@ -34,6 +34,7 @@
     ---
   #### Heap
   + Heap is a complete binary tree
-  + Max Heap: Root node having greater value than its descendants
-  + Min Heap: Root node having minimum value than its descendants
+  + Max Heap: Root node having greater value or equal than its descendants
+  + Min Heap: Root node having minimum value or equal than its descendants
+  + 
   
