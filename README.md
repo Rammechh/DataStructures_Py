@@ -36,5 +36,7 @@
   + Heap is a complete binary tree
   + Max Heap: Root node having greater value or equal than its descendants
   + Min Heap: Root node having minimum value or equal than its descendants
-  + 
+  + Insertion in Max Heap:
+    * the element will be added in the end of an array
+    * after added, it will be compared with the parent/ancestor. If value is greater it will be swapped with the parent. check (i/2 element)
   
