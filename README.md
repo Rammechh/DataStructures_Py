@@ -10,6 +10,7 @@
     * It's left child -> 2i
     * It's right child -> 2i+1
     * Its parent -> i/2
+    * pow(2,h+1)-1 elements or nodes
     ---
   ### Binary Tree:
   + A binary tree is a tree data structure in which each parent node can have at most two children
