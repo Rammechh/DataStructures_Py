@@ -44,10 +44,13 @@
     * So, time complexity for insertion of element ranges from O(1) - O(log n) 
     * for inserting n elements it is O(n log n)
   ##### Deletion in Max Heap:
-    * The root element will be deleted and the last element will take the place of root to aintain the complete binary tree.
+    * The root element will be deleted and the last element will take the place of root to maintain the complete binary tree.
     * Swapping will be done downwards (comparing node with child node) to maintain the Max heap
     * Adjustment from root towards leaf
     * TimeComplexity depends on height O(log n)
+    * for deleting n elements it is O(n log n)
   + Heap Sort:
     * On deletion of elements from heap, store it in the free space of that array upto length, now array will be in sorted form.
-    * 
+  + Heapify:
+    * Will start comparing from last node and compare it with parent node and goes on...
+    * Time taken is O(n)
