@@ -54,3 +54,5 @@
   + Heapify:
     * Will start comparing from last node and compare it with parent node and goes on...
     * Time taken is O(n)
+  ##### Max Heap create:
+    * To find no of leaf nodes ((n//2)+1) to n.
