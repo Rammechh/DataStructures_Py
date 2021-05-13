@@ -56,3 +56,4 @@
     * Time taken is O(n)
   ##### Max Heap create:
     * To find no of leaf nodes ((n//2)+1) to n.
+    * Tp find largest non-leaf nodes (n//2)
