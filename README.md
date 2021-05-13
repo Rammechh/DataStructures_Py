@@ -36,10 +36,12 @@
   + Heap is a complete binary tree
   + Max Heap: Root node having greater value or equal than its descendants
   + Min Heap: Root node having minimum value or equal than its descendants
-  + Insertion in Max Heap:
+  ##### Insertion in Max Heap:
     * the element will be added in the end of an array or at the leaf node.
     * after added, it will be compared with the parent/ancestor. If value is greater it will be swapped with the parent. check (i/2 element)
     * Time Complexity: swapped elements based on height (height of complete binary tree is log n, so it takes O(log n) time for insertion when inserting max element)
 or no swapping is required if it is a min value compared to parent (in this case it is O(1))
-    * So, time complexity for insertiion of element ranges from O(1) - O(log n) 
-  
+    * So, time complexity for insertion of element ranges from O(1) - O(log n) 
+  ##### Deletion in Max Heap:
+    * The root element will be deleted and the last element will take the place of root to aintain the complete binary tree.
+    * Swapping will be done downwards (comparing node with child node) to maintain the Max heap
