@@ -33,5 +33,7 @@
     * A complete binary tree is just like a full binary tree, but with two major differences 1) Every level must be completely filled 2)All the leaf elements must lean towards the left. 3)The last leaf element might not have a right sibling i.e. a complete binary tree doesn't have to be a full binary tree.
     ---
   #### Heap
-
+  + Heap is a complete binary tree
+  + Max Heap: Root node having greater value than its descendants
+  + Min Heap: Root node having minimum value than its descendants
   
