@@ -42,7 +42,12 @@
     * Adjustment from leaf towards root
     * Time Complexity: swapped elements based on height (height of complete binary tree is log n, so it takes O(log n) time for insertion when inserting max element) or no swapping is required if it is a min value compared to parent (in this case it is O(1))
     * So, time complexity for insertion of element ranges from O(1) - O(log n) 
+    * for inserting n elements it is O(n log n)
   ##### Deletion in Max Heap:
     * The root element will be deleted and the last element will take the place of root to aintain the complete binary tree.
     * Swapping will be done downwards (comparing node with child node) to maintain the Max heap
     * Adjustment from root towards leaf
+    * TimeComplexity depends on height O(log n)
+  + Heap Sort:
+    * On deletion of elements from heap, store it in the free space of that array upto length, now array will be in sorted form.
+    * 
