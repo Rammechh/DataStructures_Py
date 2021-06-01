@@ -67,3 +67,4 @@
   + Adjacency List 
     * Attached Image (Adjacency_list_Representation)
   + Adjacency matrix
+    * For Undirected graph A : A = A^T 
