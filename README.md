@@ -65,5 +65,5 @@
   * Graph represented as G=<V,E>
 ### Representation of graph:
   + Adjacency List 
-    * 
+    * Attached Image (Adjacency_list_Representation)
   + Adjacency matrix
