@@ -63,3 +63,7 @@
   * [YoutubeLink](https://www.youtube.com/watch?v=xOL7f4cMAAk&list=PLEFU6wcpJoWKoGu2GrMDvQcne8ETo02bV)
   * Total no of vertices represented as |V| and Total no of edges represented as |E|
   * Graph represented as G=<V,E>
+### Representation of graph:
+  + Adjacency List 
+    * 
+  + Adjacency matrix
