@@ -61,3 +61,5 @@
   * A Graph is a collection of Nodes(V[Vertices]) and edges(E)
   * Two Types: Directed and Undirected Graph
   * [YoutubeLink](https://www.youtube.com/watch?v=xOL7f4cMAAk&list=PLEFU6wcpJoWKoGu2GrMDvQcne8ETo02bV)
+  * Total no of vertices represented as |V| and Total no of edges represented as |E|
+  * Graph represented as G=<V,E>
