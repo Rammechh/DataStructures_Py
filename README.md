@@ -58,4 +58,6 @@
     * To find no of leaf nodes ((n//2)+1) to n.
     * Tp find largest non-leaf nodes (n//2)
 ## Graph
-  *
+  * A Graph is a collection of Nodes(V) and edges(E)
+  * Two Types: Directed and Undirected Graph
+  * 
