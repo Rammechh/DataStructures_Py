@@ -59,7 +59,7 @@
     * Tp find largest non-leaf nodes (n//2)
 ## Graph
   * A Graph is a collection of Nodes(V[Vertices]) and edges(E)
-  * Two Types: Directed and Undirected Graph
+  * Two Types: Directed Graph (If graph associated with direction) and Undirected Graph ((If graph not associated with direction)
   * [YoutubeLink](https://www.youtube.com/watch?v=xOL7f4cMAAk&list=PLEFU6wcpJoWKoGu2GrMDvQcne8ETo02bV)
   * Total no of vertices represented as |V| and Total no of edges represented as |E|
   * Graph represented as G=<V,E>
