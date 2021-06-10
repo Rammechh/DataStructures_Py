@@ -62,3 +62,11 @@ graph.print_adjList()
 
 #Printing the degree of any node [degree- no of adj nodes connected to a particular node]
 print("Degree of C",graph.degree('C'))
+
+'''Output
+A -> ['B', 'C']
+B -> ['D']
+C -> ['D', 'E']
+D -> ['E']
+E -> []
+Degree of C 2'''
