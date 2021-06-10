@@ -68,4 +68,10 @@
     * Attached Image (Adjacency_list_Representation)
   + Adjacency matrix
     * For Undirected graph A : A = A^T 
-#### For Time and space complexity refer attached
+  + For Time and space complexity refer attached
+### Breadth First Search
+  + Visit all nodes reachable from source node
+  + Avoid duplicates
+  + Visit nodes in level order
+  + To find shortest distance from source to any given node is equal to level of vertex(v) i.e.,Shortest_dist(S,V) = L(V)
+  + Time Complexity : O(V+E)
